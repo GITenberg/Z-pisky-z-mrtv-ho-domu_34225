@@ -1,0 +1,41 @@
+_repo: Z-pisky-z-mrtv-ho-domu_34225
+_version: 0.1.0
+alternative_title: Zapiski iz mertvogo doma. Czech
+contributor:
+  translator:
+    agent_name: Jaroš, H.
+    alias: Jaros, H.
+    gutenberg_agent_id: '36887'
+    url: http://www.gutenberg.org/2009/agents/36887
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    - Dostoevsky, Fyodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoievski, Fedor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2010-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34225'
+language: cs
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Exiles -- Russia (Federation) -- Siberia -- Fiction'
+title: Zápisky z mrtvého domu
+url: http://www.gutenberg.org/ebooks/34225
