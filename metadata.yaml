@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34225#Z-pisky-z-mrtv-ho-domu
 gutenberg_issued: '2010-11-06'
 gutenberg_type: Text
 identifiers:
